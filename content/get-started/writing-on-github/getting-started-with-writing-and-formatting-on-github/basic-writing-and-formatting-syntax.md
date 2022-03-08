@@ -319,7 +319,7 @@ The footnote will render like this:
 You can tell {% data variables.product.product_name %} to hide content from the rendered Markdown by placing the content in an HTML comment.
 
 <pre>
-&lt;!-- This content will not appear in the rendered Markdown --&gt;
+[README.md](https://github.com/github/docs/files/8206011/README.md)[README.md](https://github.com/github/docs/files/8206012/README.md)
 </pre>
 
 ## Ignoring Markdown formatting
